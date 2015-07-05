@@ -1,2 +1,0 @@
-# vimrc
-Just my .vimrc
